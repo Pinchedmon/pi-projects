@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "locale": "EN",
+    "label": "en",
+    "about": "Go to the about page"
+  },
+  "NavProjects": {
+    "leave": "leave"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "label": "ru",
+    "title": "Привет!",
+    "locale": "ru",
+    "about": "О СЕБЕ"
+  },
+  "NavProjects": {
+    "leave": "выйти"
+  }
+}
